@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     environment {
-    DOCKERHUB_CREDENTIALS = credentials('trisala-dockerhub')
+    DOCKERHUB_CREDENTIALS = credentials('cloudpage-dockerhub')
     }
     stages { 
 
