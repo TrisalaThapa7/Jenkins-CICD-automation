@@ -13,6 +13,7 @@
 
 3. Time to Automate: Use Jenkins CICD Pipeline to Automate the process
    > Need Jenkins server.
+   > need dockerhub account
    > Create new Jenkins pipeline
    > Create the Jenkinsfile with different stages to automate the process.
    > Check if everything is working fine.
